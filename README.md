@@ -27,25 +27,29 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="710" height="378" alt="image" src="https://github.com/user-attachments/assets/5c49ee8a-d778-44a0-9a3b-6396765bc443" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot captures the end user filling out the support ticket submission form. End users initiate the ticket lifecycle by describing their issue and categorizing it with a help topic, which triggers the workflow for analyst review.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="739" height="652" alt="image" src="https://github.com/user-attachments/assets/5473bcf0-3f3b-4d58-a196-2cf1b47fcca1" />
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here, a support agent is reviewing a new ticket, assigning responsibility, and updating the ticket’s status. Agents manage ticket progress by collaborating, communicating with users, and documenting each step in the process.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="739" height="653" alt="image" src="https://github.com/user-attachments/assets/49972f75-96b8-4c35-a851-dc9a5c468285" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this screenshot, the agent is marking the ticket as resolved. This step finalizes the ticket lifecycle, indicating that the support issue has been addressed satisfactorily. The ticket is then closed, allowing for proper record-keeping and follow-up if necessary.
 </p>
 <br />
